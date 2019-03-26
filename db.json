@@ -1,0 +1,123 @@
+{
+  "product" :[{
+  "id": 1,
+  "judul": "Thermometer Digital",
+  "harga": "$2.72"
+}, {
+  "id": 2,
+  "judul": "Wine - Semi Dry Riesling Vineland",
+  "harga": "$8.62"
+}, {
+  "id": 3,
+  "judul": "Icecream - Dibs",
+  "harga": "$7.81"
+}, {
+  "id": 4,
+  "judul": "Pie Filling - Apple",
+  "harga": "$3.99"
+}, {
+  "id": 5,
+  "judul": "Cheese - Manchego, Spanish",
+  "harga": "$6.42"
+}, {
+  "id": 6,
+  "judul": "Grapes - Black",
+  "harga": "$6.30"
+}, {
+  "id": 7,
+  "judul": "Juice - Tomato, 10 Oz",
+  "harga": "$3.40"
+}, {
+  "id": 8,
+  "judul": "Flour - Pastry",
+  "harga": "$7.90"
+}, {
+  "id": 9,
+  "judul": "Cheese - Brick With Pepper",
+  "harga": "$8.59"
+}, {
+  "id": 10,
+  "judul": "Beef - Top Butt",
+  "harga": "$5.21"
+}, {
+  "id": 11,
+  "judul": "Steampan - Lid For Half Size",
+  "harga": "$1.36"
+}, {
+  "id": 12,
+  "judul": "Onions - Green",
+  "harga": "$5.24"
+}, {
+  "id": 13,
+  "judul": "Molasses - Fancy",
+  "harga": "$4.76"
+}, {
+  "id": 14,
+  "judul": "Beef - Flank Steak",
+  "harga": "$4.43"
+}, {
+  "id": 15,
+  "judul": "Chocolate Bar - Coffee Crisp",
+  "harga": "$7.40"
+}, {
+  "id": 16,
+  "judul": "Energy Drink Bawls",
+  "harga": "$1.88"
+}, {
+  "id": 17,
+  "judul": "Beef - Kobe Striploin",
+  "harga": "$2.37"
+}, {
+  "id": 18,
+  "judul": "Flour - Buckwheat, Dark",
+  "harga": "$2.94"
+}, {
+  "id": 19,
+  "judul": "Nantucket Apple Juice",
+  "harga": "$0.56"
+}, {
+  "id": 20,
+  "judul": "Chicken - White Meat, No Tender",
+  "harga": "$1.72"
+}, {
+  "id": 21,
+  "judul": "Fish - Halibut, Cold Smoked",
+  "harga": "$1.05"
+}, {
+  "id": 22,
+  "judul": "Flower - Leather Leaf Fern",
+  "harga": "$1.11"
+}, {
+  "id": 23,
+  "judul": "Cup - 6oz, Foam",
+  "harga": "$1.51"
+}, {
+  "id": 24,
+  "judul": "Coffee Cup 8oz 5338cd",
+  "harga": "$6.10"
+}, {
+  "id": 25,
+  "judul": "Sachet",
+  "harga": "$6.41"
+}, {
+  "id": 26,
+  "judul": "Chef Hat 20cm",
+  "harga": "$9.03"
+}, {
+  "id": 27,
+  "judul": "White Fish - Filets",
+  "harga": "$0.83"
+}, {
+  "id": 28,
+  "judul": "Sauce - Chili",
+  "harga": "$8.47"
+}, {
+  "id": 29,
+  "judul": "Soup - Beef, Base Mix",
+  "harga": "$3.06"
+}, {
+  "id": 30,
+  "judul": "Calypso - Strawberry Lemonade",
+  "harga": "$10.00"
+}]
+}
